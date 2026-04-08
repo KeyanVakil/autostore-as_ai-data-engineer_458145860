@@ -1,0 +1,64 @@
+{
+  "ad_id": "458145860",
+  "url": "https://www.finn.no/job/ad/458145860",
+  "title": "AI & Data Engineer",
+  "company": "AutoStore AS",
+  "company_url": "",
+  "location": "",
+  "deadline": "ASAP",
+  "date_posted": "2026-04-01",
+  "description": "Legg til som favoritt.\nDele ikon\nAI & Data Engineer\nAutoStore AS\nFrist\nSnarest\nAnsettelsesform\nFast\nReady to build AI applications that make work smarter, faster, and more impactful?\nWe are looking for a\nAI & Data Engineer\nto join our Data, AI & Integrations team.\nIn this role, you will design and build generative AI applications and data pipelines that help teams across AutoStore work smarter, faster, and more efficiently. From automating account planning to transforming complex internal and external data into actionable insights, your work will directly enable people and systems to make better decisions and focus on what matters most.\nJob Responsibilities:\nDesign, build, and deploy generative AI applications, including chatbots, AI agents, knowledge retrieval tools, and RAG systems, with LLM orchestration and AI pipelines.\nBuild, optimize, and maintain data pipelines and document/vector search processing for AI and analytics use cases, leveraging Delta Lake, PySpark, and Databricks.\nIntegrate generative AI capabilities into business tools and applications, such as Microsoft Teams and web platforms.\nImplement monitoring, logging, evaluation, and observability to ensure reliable and performant AI applications.\nTransform complex structured and unstructured data into actionable insights to support teams across the organization.\nJob Requirements:\n1–3 years of experience in Data Engineering, Machine Learning, or Generative AI applications; recent graduates with relevant skills are welcome.\nUniversity degree in Computer Science, Data Science, Software Engineering, AI/ML, or a related field.\nProficient in Python and applies software engineering best practices.\nExperience or interest in building applications with LLMs and AI agent frameworks (e.g., LangGraph, OpenAI Agents SDK, Pydantic AI), including RAG architecture, chunking strategies, embedding models, and vector search.\nStrong data engineering skills, including building pipelines, data products, and models for structured/semi-structured data, with experience in PySpark, cloud platforms (e.g., Azure Databricks), and a good understanding of machine learning concepts such as model training, evaluation, and deployment.\nWe offer:\nA\nCollaborative & Inclusive Culture\nwhere we celebrate and value everyone’s contributions, encouraging diverse perspectives in decision-making.\nWork-Life Balance & Well-being\n: We offer 1 hour per week of paid exercise, health insurance, and a generous pension plan, prioritizing your mental and physical well-being.\nA\nCreative and Safe Workplace\nby joining a company experiencing rapid growth, with the stability of being Norway’s first unicorn listed on the Oslo Stock Exchange.\nInternational and Supportive Environment\nwithin a Norwegian multinational that values collaboration and innovation with a structured onboarding plan and career opportunities within the company\nLocation for this role\nis in our offices in Oslo (Lysaker).\nApplication deadline: 12th of April\n.  Please note that we review applications continuously —if this opportunity excites you, we encourage you to apply as early as possible! All inquiries are treated confidentially.\nAutoStore does not accept agency resumes or assistance for this role. Please do not forward resumes to our job's alias or AutoStore employees. AutoStore is not responsible for any fees related to unsolicited resumes. This policy should be respected.\nFerdigheter\nAzure Databricks\nData Engineering\nDevelopment of data pipelines\nGenerative artificial intelligence\nKjennskap til skyplattformer\nPySpark\nPython (dataprogrammering)\nStore språkmodeller\nOm arbeidsgiveren\nAutoStore™ holds a simple yet powerful vision: to store and move things for everyone, everywhere. Founded in Norway, we've grown into a global technology company. AutoStore uses advanced software to automate and orchestrate order fulfillment.\nOur goal is to ensure orders arrive faster than ever, with minimal environmental impact. That’s how we help brands exceed customer expectations. We have more than 1600 systems in nearly 60 countries, and we grow continuously as a community of employees, partners, customers, suppliers, and connected technologies.\nAutomation should make life easier, and by listening carefully to our community, we innovate to meet the industry’s most complex needs. With AutoStore™, brands gain speed, efficiency, and improved workplaces. And much more floor space.\nAutoStore – moving things forward.\nSektor\n:\nPrivat\nSted\n:\n0283\nOslo\nBransje\n:\nIndustri og produksjon\n,\nIT - programvare\nStillingsfunksjon\n:\nAI / Maskinlæring\n,\nDataingeniør\n,\nUtvikler (generell)\nArbeidsspråk\n:\nEngelsk\nNøkkelord\nai applikasjoner, dataingeniør, generativ ai, datapipelines, ai agenter\nSpørsmål om stillingen\nKontaktperson\n:\nAutoStore\nBli kjent med AutoStore AS\nHjemmeside\nFlere stillinger fra AutoStore AS\nFølg firma\n594 følger dette firmaet\nFirmaets beliggenhet\n0283\nOslo\nAnnonseinformasjon\nFINN-kode\n458145860\nSist endret\n1.4.2026, 12:32\nRapporter annonse",
+  "json_ld": null,
+  "apply_method": {
+    "type": "external_ats",
+    "ats_platform": "workday",
+    "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Oslo-Norway/AI---Data-Engineer_JR102453-3",
+    "email": ""
+  },
+  "analysis": {
+    "is_software_role": true,
+    "role_type": "data_engineer",
+    "english_friendly": 0.95,
+    "sponsorship_likely": 0.75,
+    "practical_viability": 0.85,
+    "tech_stack": [
+      "Python",
+      "PySpark",
+      "Azure Databricks",
+      "Delta Lake",
+      "LangGraph",
+      "OpenAI Agents SDK",
+      "Pydantic AI",
+      "RAG",
+      "vector search",
+      "LLMs",
+      "Microsoft Teams",
+      "Azure"
+    ],
+    "required_skills": [
+      "Python",
+      "data pipeline development",
+      "LLM application development",
+      "RAG architecture",
+      "PySpark",
+      "Azure Databricks",
+      "cloud platforms",
+      "software engineering best practices"
+    ],
+    "nice_to_have_skills": [
+      "LangGraph",
+      "OpenAI Agents SDK",
+      "Pydantic AI",
+      "embedding models",
+      "vector search",
+      "ML model training and evaluation",
+      "Microsoft Teams integration",
+      "monitoring and observability"
+    ],
+    "experience_level": "junior",
+    "requires_degree": "bachelors",
+    "summary": "AutoStore AS (Norway's first unicorn, 1600+ systems in 60 countries) is looking for an AI & Data Engineer to join their Data, AI & Integrations team in Oslo (Lysaker). The role involves building generative AI applications (chatbots, AI agents, RAG systems), data pipelines, and integrations with business tools. They want 1–3 years of experience or a strong recent graduate, with Python proficiency, LLM/agent framework experience, and solid data engineering skills using PySpark and Azure Databricks. The working language is explicitly listed as English.",
+    "why_foreigner_friendly": "Excellent fit for an English-speaking foreigner. The working language is explicitly 'Engelsk' and the ad itself is written in English. AutoStore is a global Norwegian tech company (unicorn, listed on Oslo Stock Exchange) with 1600+ systems across 60 countries and explicitly describes an 'International and Supportive Environment' — they clearly hire internationally. The tech stack (Python, Azure Databricks, LangGraph, RAG) is entirely international, no Norwegian tooling or language dependency. Company size and international profile make visa sponsorship realistic. No Norwegian language requirements anywhere in the listing. The deadline is April 12 so apply immediately."
+  },
+  "foreigner_score": 0.85
+}
